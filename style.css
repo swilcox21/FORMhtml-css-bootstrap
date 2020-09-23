@@ -1,0 +1,14 @@
+#missing {
+    border: 1px solid rgb(248, 191, 191);
+    background-color: rgb(248, 205, 205);
+    font: red;
+}
+#radioButton  {
+    min-height: 40px;
+    padding: 8px;
+    background-color: rgb(136, 135, 135);
+    border-radius: 4px;
+} 
+#notes {
+    color: gray;
+}
